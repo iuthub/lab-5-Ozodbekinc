@@ -10,6 +10,10 @@ body {
     padding: 0.5em;
 }
 
+fieldset{
+    border-width: 0px;
+}
+
 hr {
     width: 90%;
     border: 1px solid #D8C858;
